@@ -1,6 +1,6 @@
-# Project 2 - NLP
+# NLP Practise
 
-This is a practise project for me to learn about NLP.
+This is a practise project for me to learn about NLP. This project was guided by my DXC colleague George Nwaorgu.
 
 ## Stage 1
 
